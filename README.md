@@ -1,4 +1,4 @@
-# PoC .NET TDD Bowling Kata
+# PoC .NET - TDD Bowling Kata
 
 🔬 Proof of Concept of Bowling Kata TDD in .NET
 
