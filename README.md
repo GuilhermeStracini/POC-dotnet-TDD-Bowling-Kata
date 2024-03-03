@@ -11,3 +11,11 @@
 🔬 Proof of Concept of Bowling Kata TDD in .NET
 
 ---
+
+## Useful links
+
+- http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata
+- https://dev.to/oblac/tdd-bowling-and-uncle-bob-583m
+- https://kata-log.rocks/bowling-game-kata
+- https://codingdojo.org/kata/Bowling/
+- https://devlead.io/CodeKata/TestDrivenBowling
